@@ -7,3 +7,7 @@ IoT Based Greenhouse control and monitoring system designed using the Arduino. I
             2. Database (MySQL DB)
             
             3. Web Dashboard / Backend (HTML/CSS/JS/PHP)
+           
+       
+##NOTE:
+#I'll be adding the SQL Database structure soon... :)
