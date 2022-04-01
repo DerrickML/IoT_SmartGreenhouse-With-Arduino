@@ -2,11 +2,13 @@
 
 IoT Based Greenhouse control and monitoring system designed using the Arduino. It's comprised of mainly 3 sections:
 
-            1. Hardware connection (C/C++)
+            1. Arduino hardware andplatform (C/C++)
             
-            2. Database (MySQL DB)
+            2. Database (MySQL, phpMyAdmin)
             
-            3. Web Dashboard / Backend (HTML/CSS/JS/PHP)
+            3. Web Dashboard (HTML, CSS, JS, ChartJS)
+            
+            4. Backend (PHP)
            
        
 ## NOTE:
