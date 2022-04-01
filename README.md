@@ -1,6 +1,6 @@
 # SmartGreenhouse Control and Monitoring System
 
-IoT Based Greenhouse control and monitoring system designed using the Arduino. It's comprised of mainly 3 sections:
+IoT Based Greenhouse control and monitoring system designed using the Arduino. It's comprised of mainly 4 sections:
 
             1. Arduino hardware andplatform (C/C++)
             
